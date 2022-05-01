@@ -1,1 +1,2 @@
 # Credit-Card-Classification
+A machine learning model which is able to classify whether a person's credit card should be defaulted or not, based on details like last 6 months history of past payment, amount of past payments, gender, marriage status etc.
